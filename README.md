@@ -40,3 +40,4 @@ Objective
 Source: https://www.kaggle.com/datasets/tanishqdublish/stock-market-predictions
 
 The primary goal of this project is to demonstrate the potential of advanced sentiment analysis in predicting stock market trends. By correlating sentiment derived from global news headlines with the movements of the Dow Jones Industrial Average, we aim to provide a novel approach to understanding market dynamics.
+
