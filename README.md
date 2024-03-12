@@ -1,4 +1,4 @@
-## GPT-Based Sentiment Analysis for Predicting Dow Jones Trends
+# GPT-Based Sentiment Analysis for Predicting Dow Jones Trends
 
   @ Hubery Hu
   @ Himal Pandey
