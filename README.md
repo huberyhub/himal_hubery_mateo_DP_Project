@@ -3,6 +3,7 @@
 ### Contributors
 - Hubery Hu
 - Himal Pandey
+- Mateo Velarde
 
 ## Project Overview
 
