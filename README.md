@@ -45,4 +45,18 @@ Three .csv files are provided to facilitate the analysis:
 
 The primary goal of this project is to demonstrate the potential of advanced sentiment analysis in predicting stock market trends. By correlating sentiment derived from global news headlines with the movements of the Dow Jones Industrial Average, we aim to provide a novel approach to understanding market dynamics.
 
-Source: [Stock Market Predictions on Kaggle](https://www.kaggle.com/datasets/tanishqdublish/stock-market-predictions)
+## Related Work
+
+This project is informed by several key studies that provide foundational insights into the relationship between public sentiment, as expressed through various media, and stock market movements.:
+
+1. **Bollen, J., Mao, H., & Zeng, X.** (2011). "Twitter mood predicts the stock market." Journal of Computational Science.
+2. **Li, X., et al.** (2014). "News impact on stock price return via sentiment analysis." Knowledge-Based Systems.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgement
+
+- Data sourced from Kaggle: Stock Market Predictions (https://www.kaggle.com/datasets/tanishqdublish/stock-market-predictions).
+- Models and tools provided by OpenAI's Transformers.
