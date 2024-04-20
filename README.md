@@ -52,7 +52,9 @@ Three .csv files are provided to facilitate the analysis:
 
 ### Model Implementation
 - **Logistic Regression:** A baseline model using logistic regression was implemented to provide initial insights into the correlation between text sentiment and stock trends.
+
 - **GPT-Based Model:** Leveraging the Hugging Face Transformers library, we implemented a GPT-2 model for sequence classification. This model is fine-tuned on our dataset to predict stock market trends based on news headline sentiment.
+
 - **Training and Evaluation:** The models are trained on a split dataset and evaluated using accuracy and classification report metrics to understand their performance.
 
 
