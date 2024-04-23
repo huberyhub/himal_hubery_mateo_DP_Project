@@ -5,6 +5,10 @@
 - Himal Pandey
 - Mateo Velarde
 
+### Currently, all codes are in the file TrainedModel.ipynb. 
+We decide to keep everything in file at this point because it is the most convenient way to keep everything in place and push/pull through git.
+We try to store model in the file but it is too big to push
+
 ## Project Overview
 
 This project aims to harness the capabilities of AI, particularly GPT-based sentiment analysis, to predict the trends of the Dow Jones Industrial Average (DJIA). By analyzing the sentiment conveyed in historical news headlines, we seek to uncover correlations between public sentiment and stock market movements, thereby providing insights into potential future trends of the DJIA.
