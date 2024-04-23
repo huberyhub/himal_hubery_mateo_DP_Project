@@ -48,11 +48,10 @@ Three .csv files are provided to facilitate the analysis:
 - **Vectorization:** Text data is transformed into numerical data using CountVectorizer, with a limit of 5000 features to capture the most relevant words.
 - **Label Encoding and Scaling:** Stock movement labels are encoded numerically, and data is scaled using MaxAbsScaler to maintain the sparsity of the dataset.
 
-
 ## Objective
 The primary goal of this project is to demonstrate the potential of advanced sentiment analysis in predicting stock market trends. By correlating sentiment derived from global news headlines with the movements of the Dow Jones Industrial Average, we aim to provide a novel approach to understanding market dynamics.
 
-### Training and Evalution
+## Training and Evalution
 
 - **GPT-Based Model:** Leveraging the Hugging Face Transformers library, we implemented a GPT-2 model for sequence classification. This model is fine-tuned on our dataset to predict stock market trends based on news headline sentiment.
 
