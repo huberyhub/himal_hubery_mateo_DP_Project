@@ -48,20 +48,17 @@ Three .csv files are provided to facilitate the analysis:
 - **Vectorization:** Text data is transformed into numerical data using CountVectorizer, with a limit of 5000 features to capture the most relevant words.
 - **Label Encoding and Scaling:** Stock movement labels are encoded numerically, and data is scaled using MaxAbsScaler to maintain the sparsity of the dataset.
 
-## 
 
-### Model Implementation
-- **Logistic Regression:** A baseline model using logistic regression was implemented to provide initial insights into the correlation between text sentiment and stock trends.
+## Objective
+The primary goal of this project is to demonstrate the potential of advanced sentiment analysis in predicting stock market trends. By correlating sentiment derived from global news headlines with the movements of the Dow Jones Industrial Average, we aim to provide a novel approach to understanding market dynamics.
+
+### Training and Evalution
 
 - **GPT-Based Model:** Leveraging the Hugging Face Transformers library, we implemented a GPT-2 model for sequence classification. This model is fine-tuned on our dataset to predict stock market trends based on news headline sentiment.
 
 - **Training and Evaluation:** The models are trained on a split dataset and evaluated using accuracy and classification report metrics to understand their performance.
 
-
-
-## Objective
-
-The primary goal of this project is to demonstrate the potential of advanced sentiment analysis in predicting stock market trends. By correlating sentiment derived from global news headlines with the movements of the Dow Jones Industrial Average, we aim to provide a novel approach to understanding market dynamics.
+- **Data processing, training, and evaluation are all in the file TrainedModel.ipynb**  
 
 ## Related Work
 
