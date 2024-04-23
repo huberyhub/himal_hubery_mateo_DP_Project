@@ -5,7 +5,7 @@
 - Himal Pandey
 - Mateo Velarde
 
-### Currently, all codes are in the file TrainedModel.ipynb. 
+### Currently, all codes are in the file TrainedModel.ipynb. Everything can be runned block by block in the jupyter notebook file.
 We decide to keep everything in file at this point because it is the most convenient way to keep everything in place and push/pull through git.
 We try to store model in the file but it is too big to push
 
