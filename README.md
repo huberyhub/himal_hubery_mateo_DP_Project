@@ -52,6 +52,23 @@ Three .csv files are provided to facilitate the analysis:
 - **Vectorization:** Text data is transformed into numerical data using CountVectorizer, with a limit of 5000 features to capture the most relevant words.
 - **Label Encoding and Scaling:** Stock movement labels are encoded numerically, and data is scaled using MaxAbsScaler to maintain the sparsity of the dataset.
 
+## Further Exploration: DJIA Prices Integration and Trend Analysis
+
+This section covers the additional updates and enhancements made to the original project.
+
+### Major Updates
+
+1. **Integration of DJIA Prices in Training**:
+   - The new project incorporates DJIA price information directly into the training process. This enhancement aims to improve the model's predictive capabilities by providing more comprehensive input data, combining both news sentiment and actual stock prices.
+
+2. **Incorporation of Long-term and Short-term Trends**:
+   - The model now considers both long-term and short-term trends of the DJIA. This dual approach allows the model to capture broader market movements as well as immediate reactions, potentially leading to more accurate and nuanced predictions.
+
+### Project Files
+
+- **Further_Implementation_of_Deep_Learning_Final_Project.ipynb**: This Jupyter notebook contains the updated model implementation. It includes data processing steps, training routines, and evaluation methods for the enhanced model that integrates DJIA prices and trends.
+
+
 ## Objective
 The primary goal of this project is to demonstrate the potential of advanced sentiment analysis in predicting stock market trends. By correlating sentiment derived from global news headlines with the movements of the Dow Jones Industrial Average, we aim to provide a novel approach to understanding market dynamics.
 
