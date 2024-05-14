@@ -1,7 +1,7 @@
 # GPT-Based Sentiment Analysis for Predicting Dow Jones Trends
 
 ### Contributors
-- **Hubery Hu**
+- **Hubery Jiarui Hu**
 - **Himal Pandey**
 - **Mateo Velarde**
 
