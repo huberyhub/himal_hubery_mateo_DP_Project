@@ -84,7 +84,7 @@ The primary goal of this project is to demonstrate the potential of advanced sen
 
 ---
 
-## New Project: DJIA Prices Integration and Trend Analysis
+## Final Project: DJIA Prices Integration and Trend Analysis
 
 ### Major Updates
 
@@ -96,7 +96,7 @@ The primary goal of this project is to demonstrate the potential of advanced sen
 
 ### Project Files
 
-- **Further_Implementation_of_Deep_Learning_Final_Project.ipynb**: This Jupyter notebook contains the updated model implementation, including data processing steps, training routines, and evaluation methods for the enhanced model integrating DJIA prices and trends.
+- **DeepLearning_FinalProject_Pt.2.ipynb**: This Jupyter notebook contains the updated model implementation, including data processing steps, training routines, and evaluation methods for the enhanced model integrating DJIA prices and trends. Run the code in sequence to train, execute, and evaluate the model. The code was completed in Colab.
 
 ### Objectives
 
